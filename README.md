@@ -1,6 +1,6 @@
 <center>
 
-![](https://github.com/sergiomora03/MachineLearningSystems/blob/master/notebooks/images/logo-uniandes%20(1).png)
+![](https://raw.githubusercontent.com/sergiomora03/MachineLearningSystems/master/notebooks/images/logo-uniandes%20(1).png)
 
 </center>
 
