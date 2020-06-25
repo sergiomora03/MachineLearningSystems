@@ -1,6 +1,6 @@
 <center>
 
-![](https://uniandes.edu.co/sites/default/files/logo-uniandes.PNG)
+![](https://github.com/sergiomora03/MachineLearningSystems/blob/master/notebooks/images/logo-uniandes%20(1).png)
 
 </center>
 
