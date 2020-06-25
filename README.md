@@ -1,6 +1,6 @@
 <center>
 
-[](https://uniandes.edu.co/sites/default/files/logo-uniandes.png)
+![](https://uniandes.edu.co/sites/default/files/logo-uniandes.PNG)
 
 </center>
 
