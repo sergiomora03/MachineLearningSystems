@@ -1,37 +1,58 @@
-## Welcome to GitHub Pages
+<center>
 
-You can use the [editor on GitHub](https://github.com/sergiomora03/MachineLearningSystems/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+![](https://uniandes.edu.co/sites/default/files/logo-uniandes.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+</center>
 
-### Markdown
+# Métodos Avanzados de Análisis de datos
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Instructor: *Alejandro Correa Bahnsen*
 
-```markdown
-Syntax highlighted code block
+* email: [al.bahnsen@gmail.com](mailto:al.bahnsen@gmail.com)
+* twitter: [@albahnsen](https://twitter.com/albahnsen)
+* github: [albahnsen](https://github.com/albahnsen)
 
-# Header 1
-## Header 2
-### Header 3
+The use of statistical models in computer algorithms allows computers to make decisions and predictions, and to perform tasks that traditionally require human cognitive abilities. Machine learning is the interdisciplinary field at the intersection of statistics and computer science which develops such algorithms and interweaves them with computer systems. It underpins many modern technologies, such as speech recognition, internet search, bioinformatics, computer vision, Amazon’s recommender system, Google’s driverless car and the most recent imaging systems for cancer diagnosis are all based on Machine Learning technology.
 
-- Bulleted
-- List
+# P2 - Machine Learning Systems
 
-1. Numbered
-2. List
+## Exercise P2.1 (50%)
 
-**Bold** and _Italic_ and `Code` text
+Develop a machine learning model that predicts the price of the of car using as an input ['Year', 'Mileage', 'State', 'Make', 'Model']
 
-[Link](url) and ![Image](src)
-```
+#### Evaluation:
+- 25% - Performance of the models using a manually implemented K-Fold (K=10) cross-validation
+- 25% - Notebook explaining the process for selecting the best model. You must specify how the calibration of each of the parameters is done and how these change the performance of the model. It is expected that a clear comparison will be made of all implemented models.. Present the most relevant conslusions about the whole process. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Exercise P2.2 (50%)
 
-### Jekyll Themes
+Create an API of the model.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sergiomora03/MachineLearningSystems/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Example:
+![](https://raw.githubusercontent.com/albahnsen/PracticalMachineLearningClass/master/notebooks/images/img015.PNG)
 
-### Support or Contact
+#### Evaluation:
+- 40% - API hosted on a cloud service
+- 10% - Show screenshots of the model doing the predictions on the local machine
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# Integrantes
+
+* Nidia Marcela Ortiz Sandoval <nm.ortiz33@uniandes.edu.co>
+* Carlos Francisco Silva Ortiz <cf.silvao@uniandes.edu.co>
+* German Guillermo Torres Hernandez <gg.torres84@uniandes.edu.co>
+* Sergio Alberto Mora Pardo <s.morap@uniandes.edu.co>
+
+# Contenido
+### Proyecto 2
+
+|Description|File|
+|----|--------|
+|Notebook|[Deploy](https://colab.research.google.com/drive/1egQQUPk7hN66mEf05-9g6jhf-sp9WqSc#scrollTo=Us_FZFQ8OVBq)|
+|Dataset|Deploy|
+
+### Ejercicios
+
+|Description  | File|
+|-----------: |:------------:|
+|    Notebooks Excercises | deploy |
+
